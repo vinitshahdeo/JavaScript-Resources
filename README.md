@@ -9,3 +9,4 @@
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Event loop in JavaScript](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript)
 - [Clean code in JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Algorithms in JS](https://github.com/trekhleb/javascript-algorithms)
