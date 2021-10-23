@@ -1,6 +1,6 @@
 # JavaScript Resources
 
-**Here's curated list of 10 resources to ace your next JavaScript interview**
+**Here's curated list of 10 resources to ace your next JavaScript interview.** For learning, [javascript.info](https://javascript.info/) is highly recommended.
 
 ## External Resources
 
@@ -28,4 +28,3 @@
 ## Thank you
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vinitshahdeo)
-
