@@ -8,8 +8,8 @@
 
 ## External Links
 
-- [Namastey JavaScript Course](https://www.youtube.com/watch?v=pN6jk0uUrD8) - An awesome playlist of advanced concepts in JS (Must watch)
-- [FAQs for JavaScript Interviews](https://www.interviewbit.com/javascript-interview-questions/) (Must do)
+- [Namastey JavaScript Course](https://www.youtube.com/watch?v=pN6jk0uUrD8) - An awesome playlist of advanced concepts in JS **(Must watch)**
+- [FAQs for JavaScript Interviews](https://www.interviewbit.com/javascript-interview-questions/) **(Must do)**
 
 ## Repositories on GitHub
 
