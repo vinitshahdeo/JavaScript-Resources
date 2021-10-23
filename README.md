@@ -2,7 +2,7 @@
 
 **Here's curated list of 10 resources to ace your next JavaScript interview.** For learning, [javascript.info](https://javascript.info/) is highly recommended.
 
-## External Resources
+## External Links
 
 - [Namastey JavaScript Course](https://www.youtube.com/watch?v=pN6jk0uUrD8) - An awesome playlist of advanced concepts in JS (Must watch)
 - [FAQs for JavaScript Interviews](https://www.interviewbit.com/javascript-interview-questions/) (Must do)
@@ -26,5 +26,7 @@
 [![Algorithms in JS](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms)](https://github.com/trekhleb/javascript-algorithms)
 
 ## Thank you
+
+I have curated these resources for my mentees. If you like it, consider [leaving a star](https://github.com/vinitshahdeo/JavaScript-Resources/stargazers) or [buying me a coffee](https://www.buymeacoffee.com/vinitshahdeo)!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vinitshahdeo)
