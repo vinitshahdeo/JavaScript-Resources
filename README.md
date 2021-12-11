@@ -32,7 +32,7 @@
 
 ## Contributing
 
-1. Clone the repository and create a new branch
+1. Clone the repository and create a new branch.
 
 ```bash
 git clone https://github.com/vinitshahdeo/inspirational-quotes.git
@@ -47,7 +47,7 @@ touch yourFileName.js
 ```
 
 3. Add your code to `yourFileName.js`
-   - Ensure that the problem statement is added as a comment in the top of the file
+   - Ensure that the problem statement is added as a comment in the top of the file.
    - Add proper comments (JSDocs) wherever needed.
    - Below is a sample code snippet
 
@@ -75,8 +75,8 @@ console.log(flattenArray([1, 2, [3, 4, [5, 6, 7]], 8]));
 
 ```
 
-4. Please raise a [pull request](https://github.com/vinitshahdeo/JavaScript-Resources/pulls) to add your code-snippet
-   - Provide proper PR title and description
+4. Please raise a [pull request](https://github.com/vinitshahdeo/JavaScript-Resources/pulls) to add your code-snippet.
+   - Provide proper PR title and description.
    - Sit and relax! You've made your contribution. 🎉
 
 ## Thank you
