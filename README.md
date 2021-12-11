@@ -46,7 +46,7 @@ cd examples
 touch yourFileName.js
 ```
 
-3. Add your code with `yourFileName.js`
+3. Add your code to `yourFileName.js`
    - Ensure that the problem statement is added as a comment in the top of the file
    - Add proper comments (JSDocs) wherever needed.
    - Below is a sample code snippet
