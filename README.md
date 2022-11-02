@@ -78,6 +78,8 @@ console.log(flattenArray([1, 2, [3, 4, [5, 6, 7]], 8]));
 4. Please raise a [pull request](https://github.com/vinitshahdeo/JavaScript-Resources/pulls) to add your code-snippet.
    - Provide proper PR title and description.
    - Sit and relax! You've made your contribution. 🎉
+   
+[![Forkers repo roster for @vinitshahdeo/JavaScript-Resources](https://reporoster.com/forks/vinitshahdeo/JavaScript-Resources)](https://github.com/vinitshahdeo/JavaScript-Resources/network/members)
 
 ## Thank you
 
