@@ -2,7 +2,9 @@
 
 <a href="https://vinitshahdeo.github.io/JavaScript-Resources/"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
 
-**Here's a curated list of 10 resources to ace your next JavaScript interview.** For learning, [javascript.info](https://javascript.info/) is highly recommended. **If you have encountered any coding problem in JS interview, please raise a PR to add your solution to [`examples/`](./examples) folder**. Please refer to the [contributing](#contributing) section to learn more.
+**Here's a curated list of 10 resources to ace your next JavaScript interview.** For learning, [javascript.info](https://javascript.info/) is highly recommended. **If you have encountered any coding problems in the JS interview, please raise a PR to add your solution to [`examples/`](./examples) folder**. Please refer to the [contributing](#contributing) section to learn more.
+
+For any queries, feel free to reach out to me — [topmate.io/vinitshahdeo](https://topmate.io/vinitshahdeo) or [Twitter](https://twitter.com/Vinit_Shahdeo).
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Fvinitshahdeo%252FJavaScript-Resources%252F%26text%3DCurated%2520list%2520of%2520resources%2520by%2520%40Vinit_Shahdeo%2520to%2520ace%2520your%2520next%2520JavaScript%2520interview.%26hashtags%3Djavascript%252C%2520interviews%252C%2520resoucres)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FJavaScript-Resources%2F&text=Curated%20list%20of%20resources%20by%20@Vinit_Shahdeo%20to%20ace%20your%20next%20JavaScript%20interview.&hashtags=javascript%2Cinterviews%2Cresources)
 
